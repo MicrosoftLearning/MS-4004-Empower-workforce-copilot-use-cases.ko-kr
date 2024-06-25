@@ -9,8 +9,7 @@ Operations Manager는 Outlook에서 일상 업무의 대부분을 수행합니�
 
 이 학습에서는 Outlook의 Copilot을 사용하여 받은 편지함에 있는 실제 이메일 스레드를 요약한 다음 이 스레드의 최신 이메일에 대한 잠재적인 회신 초안을 작성합니다.
 
-> [!IMPORTANT]
-> Outlook의 Copilot 시나리오는 사용자의 기본 사서함에서만 사용할 수 있습니다. 사용자의 보관 사서함, 그룹 사서함, 사용자가 액세스할 수 있는 공유 및 위임 사서함에서는 사용할 수 없습니다. Microsoft는 Exchange Online에서 호스트되는 사서함에서만 Outlook용 Copilot을 지원합니다. 또한 Outlook의 Copilot은 Microsoft 365 회사 또는 학교 계정과 특정 이메일 도메인이 있는 Microsoft 계정에서만 지원됩니다. Microsoft Entra ID 계정이 있는 Microsoft 365용 Copilot과 MSA 계정이 있는 Copilot Pro를 통해 모두 지원됩니다. 타사 이메일 공급자의 계정을 사용하는 모든 Microsoft 계정은 계속해서 Outlook을 사용할 수 있지만 Outlook의 Copilot 기능에는 액세스할 수 없습니다.
+> **중요:** Outlook의 Copilot 시나리오는 사용자의 기본 사서함에서만 사용할 수 있습니다. 사용자의 보관 사서함, 그룹 사서함, 사용자가 액세스할 수 있는 공유 및 위임 사서함에서는 사용할 수 없습니다. Microsoft는 Exchange Online에서 호스트되는 사서함에서만 Outlook용 Copilot을 지원합니다. 또한 Outlook의 Copilot은 Microsoft 365 회사 또는 학교 계정과 특정 이메일 도메인이 있는 Microsoft 계정에서만 지원됩니다. Microsoft Entra ID 계정이 있는 Microsoft 365용 Copilot과 MSA 계정이 있는 Copilot Pro를 통해 모두 지원됩니다. 타사 이메일 공급자의 계정을 사용하는 모든 Microsoft 계정은 계속해서 Outlook을 사용할 수 있지만 Outlook의 Copilot 기능에는 액세스할 수 없습니다.
 
 또한 이전 사용 사례에서 Outlook의 Copilot이 동일한 이메일의 초안을 여러 개 만들 수 있다는 점을 기억해야 합니다. 콘텐츠도 다르고 톤과 길이도 다를 수 있습니다. 그런 다음 Copilot 창 상단에 있는 앞으로 및 뒤로 화살표를 선택하여 다양한 초안을 탐색할 수 있습니다.
 

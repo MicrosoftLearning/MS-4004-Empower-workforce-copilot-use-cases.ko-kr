@@ -8,7 +8,6 @@ Graphic Design Institute의 HR 관리자는 Word의 Copilot을 사용하여 새�
 
 먼저 Loop의 Copilot, Microsoft Copilot(Bing Chat) 및 Word의 Copilot에서 각각 15개의 질문 집합을 만들도록 해야 합니다.
 
-> [!TIP]
-> Copilot이 각 질문에 대한 추가 의견을 생성하는 경우 해당 질문에 대해서만 응답을 보관하도록 요청합니다.
+> **팁:** Copilot이 각 질문에 대한 추가 의견을 생성하는 경우 해당 질문에 대해서만 응답을 보관하도록 요청합니다.
 
 그런 다음 각 Copilot 도구에서 생성된 15개의 질문을 단일 Word 문서에 복사하여 붙여넣으면 총 45개의 질문 풀이 제공됩니다. 해당 문서를 통해 Word의 Copilot이 45개의 질문을 비교하고 풀에서 상위 15개를 선택하도록 합니다. Copilot이 권장하는 각 질문에 대해 Word의 Copilot, Loop의 Copilot 또는 Microsoft Copilot(Bing) 등 질문의 원본을 식별해야 합니다. 그런 다음 15개 질문의 최종 목록에서 Loop의 Copilot, Microsoft Copilot(Bing) 및 Word의 Copilot에서 생성된 총 질문 수를 표시하도록 Word의 Copilot에 요청합니다.

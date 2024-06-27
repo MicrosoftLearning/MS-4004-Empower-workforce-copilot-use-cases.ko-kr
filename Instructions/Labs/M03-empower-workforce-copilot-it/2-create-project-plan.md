@@ -17,7 +17,7 @@ Adatum Corporation의 IT 책임자로서 여러분은 Contoso CipherGuard Sentin
 
 다음 단계에 따라 Bing의 Microsoft Copilot을 사용하여 프로젝트 계획을 만듭니다.
 
-1.  다음 링크를 선택하여 [Contoso CipherGuard 제품 사양 보고서](https://edxinteractivepage.blob.core.windows.net/ms-4004/Contoso%20CipherGuard%20Product%20Specification.docx) 복사본을 다운로드합니다.
+1.  다음 링크를 선택하여 [Contoso CipherGuard 제품 사양 보고서](https://go.microsoft.com/fwlink/?linkid=2269123) 복사본을 다운로드합니다.
 2.  다운로드가 완료되면 **파일 탐색기**를 열고 파일을 **다운로드** 폴더에서 OneDrive 계정의 폴더로 옮깁니다.
 3.  이 연습에서는 MRU 파일 목록에서 문서에 액세스합니다. MRU 목록에 파일이 표시되도록 문서를 열었다가 닫습니다.
 4.  **Microsoft Edge**에서 **https://bing.com** URL을 입력하여 Microsoft Bing으로 이동합니다.

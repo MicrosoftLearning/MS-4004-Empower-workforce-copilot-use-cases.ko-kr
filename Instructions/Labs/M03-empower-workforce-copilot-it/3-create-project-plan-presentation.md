@@ -20,7 +20,7 @@ PowerPoint의 Copilot을 사용하여 기존 Word 문서에서 프레젠테이�
 
 Adatum Corporation의 IT 책임자로서 여러분은 Contoso CipherGuard Sentinel X7 네트워크 보안 제품을 Adatum의 회사 네트워크에 설치할 계획입니다. 앞의 연습에서는 Microsoft Copilot을 사용하여 설치 프로젝트 계획을 만들었습니다. 이제 PowerPoint의 Copilot을 사용하여 해당 계획에 따라 슬라이드 프레젠테이션을 만들려고 합니다. IT 직원과 최종적으로 회사 경영진에게 프로젝트 계획을 제시해야 합니다. 다음 단계를 수행하여 프레젠테이션에서 사용할 슬라이드 데크를 만듭니다.
 
-1.  앞의 연습을 완료하여 **Contoso CipherGuard 프로젝트 plan.docx** 파일을 만들었다면 OneDrive 계정에 복사했는지 확인하고 다음 단계를 진행합니다. 그러나 앞의 연습에서 이 프로젝트 계획을 만들지 못한 경우 다음 링크를 선택하여 [Contoso CipherGuard 프로젝트 계획](https://edxinteractivepage.blob.core.windows.net/ms-4004/Contoso%20CipherGuard%20project%20plan.docx)을 다운로드하여 사용합니다. 파일 다운로드가 완료되면 OneDrive 계정에 복사합니다.
+1.  앞의 연습을 완료하여 **Contoso CipherGuard 프로젝트 plan.docx** 파일을 만들었다면 OneDrive 계정에 복사했는지 확인하고 다음 단계를 진행합니다. 그러나 앞의 연습에서 이 프로젝트 계획을 만들지 못한 경우 다음 링크를 선택하여 [Contoso CipherGuard 프로젝트 계획](https://go.microsoft.com/fwlink/?linkid=2268924)을 다운로드하여 사용합니다. 파일 다운로드가 완료되면 OneDrive 계정에 복사합니다.
 2.  이제 **Contoso CipherGuard 프로젝트 plan.docx** 파일이 OneDrive 계정에 저장되어 있어야 합니다. 파일을 열어 모든 것이 올바른지 확인한 후 파일을 닫습니다. 이렇게 하면 MRU(가장 최근 사용) 파일 목록에도 해당 파일이 나타납니다.
 3.  Microsoft Edge 브라우저에 Microsoft 365 탭이 열려 있으면 이를 바로 선택합니다. 그렇지 않으면 새 탭을 열고 다음 URL을 입력합니다. **https://www.office.com** 
 4.  **Microsoft 365** 홈페이지 왼쪽 탐색 창에서 **PowerPoint** 아이콘을 선택합니다.

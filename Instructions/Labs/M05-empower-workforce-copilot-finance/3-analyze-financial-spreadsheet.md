@@ -19,7 +19,7 @@ Fabrikam의 재무 책임자로서 여러분은 회사의 1분기 마케팅 캠�
 
 다음 단계에 따라 Excel의 Copilot을 사용하여 Q1 마케팅 캠페인 스프레드시트에 나타난 데이터를 분석합니다.
 
-1.  다음 링크를 선택하여 [Fabrikam Q1 마케팅 캠페인](https://edxinteractivepage.blob.core.windows.net/ms-4004/Fabrikam%20Q1%20marketing%20campaigns.xlsx) 스프레드시트를 다운로드합니다.
+1.  다음 링크를 선택하여 [Fabrikam Q1 마케팅 캠페인](https://go.microsoft.com/fwlink/?linkid=2269124) 스프레드시트를 다운로드합니다.
 2.  다운로드가 완료되면 파일을 OneDrive 계정으로 이동한 다음 파일을 열었다가 닫아 MRU(가장 최근 사용) 파일 목록에 가져옵니다.
 3.  Microsoft Edge 브라우저에 Microsoft 365 탭이 열려 있으면 이를 바로 선택합니다. 그렇지 않으면 새 탭을 열고 다음 URL을 입력합니다. **https://www.office.com** 
 4.  **Microsoft 365** 홈페이지의 왼쪽 탐색 창에서 **Excel** 아이콘을 선택합니다.

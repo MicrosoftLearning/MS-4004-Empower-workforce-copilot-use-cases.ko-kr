@@ -13,10 +13,10 @@ Graphic Design Institute의 HR 관리자는 새로운 선임 애니메이션 디
 이전 연습을 마치면서 만든 작업 설명 파일을 저장했습니다. 파일을 **Graphic Design Institute - Job Descriptions.docx**로 저장하라는 지침을 받았습니다. 다른 파일 이름으로 저장한 경우 이 연습에서 파일을 찾을 수 있도록 사용한 이름을 기억해 두세요. 이 연습에서는 다음 단계를 수행하여 Word의 Copilot에서 받은 4개의 이력서를 이 직무 설명 파일과 비교하여 가장 적합한 응시자를 결정하는 데 도움을 줍니다.
 
 1.  지금까지 받은 이력서를 다운로드하려면 다음 링크를 선택합니다.
-     -  [이력서 - Patti Fernandez](https://edxinteractivepage.blob.core.windows.net/ms-4004/Resume%20-%20Patti%20Fernandez.docx)
-     -  [이력서 - Nestor Wilke](https://edxinteractivepage.blob.core.windows.net/ms-4004/Resume%20-%20Nestor%20Wilke.docx)
-     -  [이력서 - Holly Dickson](https://edxinteractivepage.blob.core.windows.net/ms-4004/Resume%20-%20Holly%20Dickson.docx)
-     -  [이력서 - Alex Wilber](https://edxinteractivepage.blob.core.windows.net/ms-4004/Resume%20-%20Alex%20Wilber.docx)
+     -  [이력서 - Patti Fernandez](https://go.microsoft.com/fwlink/?linkid=2268829)
+     -  [이력서 - Nestor Wilke](https://go.microsoft.com/fwlink/?linkid=2268930)
+     -  [이력서 - Holly Dickson](https://go.microsoft.com/fwlink/?linkid=2268828)
+     -  [이력서 - Alex Wilber](https://go.microsoft.com/fwlink/?linkid=2269127)
 2.  다운로드가 완료되면 **파일 탐색기**를 열고 **다운로드** 폴더의 파일을 OneDrive 계정의 폴더로 복사합니다.
 3.  이 연습에서는 MRU(가장 최근 사용) 파일 목록에서 문서에 액세스합니다. MRU 목록에 파일을 표시하려면 각 문서를 연 다음 닫습니다. OneDrive 계정에 있는 4개의 이력서 파일을 각각 열고 닫습니다.
 4.  **Microsoft 365**에서 **Microsoft Word**를 연 다음 비어 있는 새 문서를 엽니다.

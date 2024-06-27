@@ -14,7 +14,7 @@ Word의 Copilot은 재무 전문가가 문서를 보다 효율적으로 만드�
 
 Fabrikam의 재무 이사는 이전 연습에서 Excel의 Copilot을 사용하여 회사의 1분기 마케팅 캠페인 효과를 분석했습니다. 이 연습에서는 Word의 Copilot을 사용하여 해당 데이터 분석을 요약하는 보고서를 생성할 계획입니다. 스프레드시트를 복사하여 첫 번째 단계에서 다운로드할 Word 문서에 붙여넣었습니다.
 
-1.  [Fabrikam Q1 마케팅 캠페인 데이터](https://edxinteractivepage.blob.core.windows.net/ms-4004/Fabrikam%20Q1%20marketing%20campaign%20data.docx)를 다운로드하려면 다음 링크를 선택합니다.
+1.  [Fabrikam Q1 마케팅 캠페인 데이터](https://go.microsoft.com/fwlink/?linkid=2268926)를 다운로드하려면 다음 링크를 선택합니다.
 2.  다운로드가 완료되면 파일을 OneDrive 계정으로 이동한 다음 파일을 열었다가 닫아 MRU(가장 최근 사용) 파일 목록에 가져옵니다.
 3.  Microsoft Edge 브라우저에 **Microsoft 365** 탭이 열려 있으면 지금 선택합니다. 그렇지 않으면 새 탭을 열고 다음 URL을 입력합니다. **https://www.office.com** 
 4.  **Microsoft 365**에서 **Microsoft Word**를 연 다음 빈 문서를 엽니다.

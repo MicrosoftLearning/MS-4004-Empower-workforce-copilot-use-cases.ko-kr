@@ -10,7 +10,7 @@ Word의 Copilot은 직원 피드백과 설문 조사를 분석하여 HR 전문�
 
 Graphic Design Institute의 HR 관리자는 새로운 선임 애니메이션 디자이너 고용 프로세스를 시작했습니다. 담당자는 이 역할에 대한 모든 직무 책임을 설명하는 문서를 작성했습니다. 이제 Word의 Copilot을 사용하여 이 문서의 역할 책임을 기반으로 직무 설명을 작성하려고 합니다.
 
-1.  [Graphic Design Institute - 디자인 팀 책임자](https://edxinteractivepage.blob.core.windows.net/ms-4004/Graphic%20Design%20Institute%20-%20Design%20Team%20Responsibilities.docx) 문서를 다운로드하려면 다음 링크를 선택합니다.
+1.  [Graphic Design Institute - 디자인 팀 책임자](https://go.microsoft.com/fwlink/?linkid=2268824) 문서를 다운로드하려면 다음 링크를 선택합니다.
 2.  다운로드가 완료되면 파일을 OneDrive 계정으로 이동한 다음 파일을 열었다가 닫아 MRU(가장 최근 사용) 파일 목록에 가져옵니다.
 3.  Microsoft Edge 브라우저에 Microsoft 365 탭이 열려 있으면 지금 선택합니다. 그렇지 않은 경우 새 탭을 열고 다음 URL을 입력합니다. **https://www.office.com** 
 4.  **Microsoft 365**에서 **Microsoft Word**를 열고 빈 문서를 엽니다.

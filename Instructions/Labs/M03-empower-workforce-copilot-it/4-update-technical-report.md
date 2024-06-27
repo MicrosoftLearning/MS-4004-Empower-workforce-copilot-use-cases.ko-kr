@@ -16,7 +16,7 @@ Fabrikam은 회사 네트워크에 VPN(가상 사설망)을 구현하는 데 관
 
 Trey Research의 수석 컨설턴트는 Fabrikam 프로젝트 관리를 담당하고 있습니다. 이 문서를 Fabrikam에 제시하고 VPN 구현의 세부 사항을 빠르게 파악하는 것이 임무입니다. 그러나 보고서를 검토한 후 보고서를 좀 더 변경하기로 결정했습니다. 팀의 예비 버전은 괜찮았지만 몇 가지 주요 정보가 누락되었다고 느꼈고 Fabrikam이 더 쉽게 소화할 수 있도록 일부 형식을 다시 지정하려고 합니다. 이러한 활동을 돕기 위해 Word의 Copilot을 사용할 계획입니다. 이렇게 하려면 다음 단계를 수행하십시오.
 
-1.  [Trey Research - VPN 기술 개요](https://edxinteractivepage.blob.core.windows.net/ms-4004/Trey%20Research%20-%20VPN%20Technical%20Overview.docx) 보고서 복사본을 다운로드하려면 다음 링크를 선택합니다.
+1.  [Trey Research - VPN 기술 개요](https://go.microsoft.com/fwlink/?linkid=2269129) 보고서 복사본을 다운로드하려면 다음 링크를 선택합니다.
 2.  다운로드가 완료되면 파일을 **다운로드** 폴더에서 OneDrive 계정의 폴더로 이동합니다.
 3.  **Microsoft 365**에서 **Microsoft Word**를 엽니다.
 4.  **Trey Research - VPN Technical Review.docx** 파일을 엽니다.

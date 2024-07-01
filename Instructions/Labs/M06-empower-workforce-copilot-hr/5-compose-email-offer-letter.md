@@ -19,7 +19,7 @@ Graphic Design Institute의 HR 관리자는 인터뷰 과정을 완료하고 최
 
 이메일은 정중하고 전문적인 톤으로 작성해야 하며, 직함, 시작 날짜, 급여, 복리후생(다운로드해야 하는 파일에 표시됨)이 포함되어야 합니다. 또한 이메일에는 신원 조사 및 기타 필요할 수 있는 채용 전 심사가 성공적으로 완료되었는지 여부에 따라 제품이 제공된다는 점을 언급해야 합니다. 이메일 제안 내용에는 응시자가 서명하여 반송할 제안 내용 복사본도 첨부되어 있어야 합니다.
 
-1.  [Graphic Design Institute - 직원 복리후생](https://edxinteractivepage.blob.core.windows.net/ms-4004/Graphic%20Design%20Institute%20-%20Employee%20benefits.docx) 문서를 다운로드하려면 다음 링크를 선택합니다.
+1.  [Graphic Design Institute - 직원 복리후생](https://go.microsoft.com/fwlink/?linkid=2268825) 문서를 다운로드하려면 다음 링크를 선택합니다.
 2.  파일 다운로드가 완료되면 해당 파일을 OneDrive 계정으로 옮긴 다음 파일을 열고 닫아 MRU(가장 최근 사용) 파일 목록에 표시합니다.
 3.  Microsoft Edge 브라우저에 Microsoft 365 탭이 열려 있으면 지금 선택합니다. 그렇지 않은 경우 새 탭을 열고 다음 URL을 입력합니다. **https://www.office.com** 
 4.  **Microsoft 365**에서 **Outlook**을 엽니다.

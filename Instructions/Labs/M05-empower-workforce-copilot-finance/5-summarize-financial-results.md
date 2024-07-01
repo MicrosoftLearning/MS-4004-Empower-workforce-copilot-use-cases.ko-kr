@@ -14,7 +14,7 @@
 
 이 작업을 완료하려면 지난 5년간 회사의 연간 실적에 대한 재무 요약을 제공하는 회계 팀에서 준비한 Word 문서를 열어야 합니다. 그런 다음 Word의 Copilot을 사용하여 해당 기간 동안의 회사 성과를 요약하게 됩니다.
 
-1.  [Adatum 5년 재무 결과](https://edxinteractivepage.blob.core.windows.net/ms-4004/Adatum%205%20Year%20Financial%20Results.docx)를 다운로드하려면 다음 링크를 선택합니다.
+1.  [Adatum 5년 재무 결과](https://go.microsoft.com/fwlink/?linkid=2268923)를 다운로드하려면 다음 링크를 선택합니다.
 2.  다운로드가 완료되면 **파일 탐색기**를 열고 파일을 **다운로드** 폴더에서 OneDrive 계정의 폴더로 이동합니다.
 3.  **Microsoft Word**에서 다운로드하여 OneDrive 계정으로 옮긴 **Adatum 5 Year Financial Results.docx** 파일을 엽니다.
 4.  **Microsoft Word** 리본에서 **Copilot**을 선택합니다.

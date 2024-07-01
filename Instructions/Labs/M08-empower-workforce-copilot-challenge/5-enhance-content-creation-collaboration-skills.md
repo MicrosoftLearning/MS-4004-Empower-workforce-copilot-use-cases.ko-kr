@@ -8,7 +8,7 @@ Relecloud라는 글로벌 마케팅 대행사의 마케팅 임원으로서 귀�
 
 Relecloud의 후배 동료 중 한 명이 Munson의 Pickles and Preserves Farm과 관련된 새로운 프로젝트에 대한 간략한 개요를 작성했다고 알려주었습니다. Munson's는 워싱턴 주 동부에서 통조림 피클과 보존 식품을 판매하는 소규모 사업으로 시작했습니다. 5년 동안 Munson's는 캐나다 서부와 미국 태평양 연안 전역에 제품을 판매하는 수백만 달러 규모의 비즈니스로 성장했습니다. 그들은 캐나다 중부 지방과 미국 중서부 북부를 시작으로 사업을 확장할 준비가 되어 있습니다.
 
-다음 링크를 선택하여 마케팅 보고서를 다운로드해야 합니다. [Munson's Pickles and Preserves Farm - 마케팅 보고서](https://edxinteractivepage.blob.core.windows.net/ms-4004/Marketing%20Report%20for%20Munson%27s%20Pickles%20and%20Preserves%20Farm.docx).
+다음 링크를 선택하여 마케팅 보고서를 다운로드해야 합니다. [Munson's Pickles and Preserves Farm - 마케팅 보고서](https://go.microsoft.com/fwlink/?linkid=2268063).
 
 보고서에는 요약 및 소개가 포함되어 있습니다. 그러나 보고서를 검토한 후 실행 가능한 마케팅 계획으로 만들기 위해 해야 할 일이 많다는 것을 알 수 있습니다. 요약에는 증빙 문서로 입증되지 않은 세부 정보가 포함되어 있습니다. 또한 소개가 일반적인 "소개"와는 거리가 멀다는 것을 알게 되었습니다. 여기에는 소개와 분리되어야 하는 다양한 아이디어와 배경 데이터가 포함되어 있습니다.
 
@@ -32,7 +32,7 @@ Copilot을 사용할 때 키워드 최적화에 집중하기를 원할 것입니
 
 Relecloud의 마케팅 팀은 지난 주에 만나 Munson의 Pickles and Preserves Farm 프로젝트와 관련된 캠페인 아이디어, 브레인스토밍 세션 및 프로젝트 계획에 대해 협력했습니다. 그들은 모든 결과를 하나의 방대한 마케팅 캠페인 아이디어 모음으로 통합했습니다.
 
-다음 링크를 선택하여 이 보고서를 다운로드해야 합니다. [Munson's Pickles and Preserves Farm에 대한 마케팅 캠페인 아이디어](https://edxinteractivepage.blob.core.windows.net/ms-4004/Marketing%20Campaign%20Ideas%20for%20Munson%27s%20Pickles%20and%20Preserves%20Farm.docx).
+다음 링크를 선택하여 이 보고서를 다운로드해야 합니다. [Munson's Pickles and Preserves Farm에 대한 마케팅 캠페인 아이디어](https://go.microsoft.com/fwlink/?linkid=2268691).
 
 이제 경영진과 Munson's 담당자 간의 커뮤니케이션과 아이디어 공유를 간소화하려고 합니다. 이렇게 하려면 Word에서 Copilot을 사용하여 이 캠페인 아이디어 보고서를 분석하고 "Munson의 캐나다 및 미국 확장을 지원하기 위한 상위 5개 마케팅 캠페인 아이디어"라는 제목의 새 보고서를 만듭니다. 이 새로운 보고서는 이 마케팅 캠페인 아이디어 보고서의 결과를 요약하고 주요 아이디어와 잠재적 실행 항목을 강조해야 합니다. 새 보고서에는 다음이 포함되어야 합니다.
 

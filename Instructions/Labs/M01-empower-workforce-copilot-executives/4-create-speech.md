@@ -27,7 +27,7 @@ Word용 Copilot을 능숙하게 활용하는 경영진은 손쉽게 자신의 �
 
 Word의 Copilot을 사용하여 연설문을 생성하려면 다음 단계를 수행합니다.
 
-1.  다음 링크를 선택하여 [Fabrikam's 2023 Income Statement](https://edxinteractivepage.blob.core.windows.net/ms-4004/Fabrikam%202023%20Income%20Statement.docx)(Fabrikam 2023 손익계산서) 사본을 다운로드합니다.
+1.  다음 링크를 선택하여 [Fabrikam's 2023 Income Statement](https://go.microsoft.com/fwlink/?linkid=2268823)(Fabrikam 2023 손익계산서) 사본을 다운로드합니다.
 2.  다운로드가 완료되면 **파일 탐색기**를 열고 파일을 **다운로드** 폴더에서 OneDrive 계정의 폴더로 옮깁니다.
 3.  이 연습에서는 최근에 사용한 파일 목록에서 문서에 액세스합니다. 목록에 파일이 표시되도록 문서를 열었다가 닫습니다.
 4.  **Microsoft 365**에서 다음 URL을 입력하여 빈 **Microsoft Word** 문서를 새로 엽니다. **Word.new** 

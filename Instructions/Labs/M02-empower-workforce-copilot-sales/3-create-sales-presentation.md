@@ -11,7 +11,7 @@ Copilot은 발표자가 프레젠테이션을 요약하는 데 도움을 주어 
 
 Contoso, Ltd.의 영업 및 마케팅 이사는 회사의 가장 인기 있는 판매 제품인 Contoso Protein Plus 쉐이크에 관해 영업팀에 프레젠테이션을 제공해야 합니다. 프레젠테이션에서는 마케팅 팀이 제품에 대해 작성한 시장 추세 보고서를 분석해야 합니다. 이 연습을 시작할 때 다운로드한 **Market Trend Report - Protein Shake.docx** 파일의 정보를 기반으로 PowerPoint의 Copilot이 슬라이드 프레젠테이션을 만들도록 하려면 다음 단계를 수행합니다.
 
-1.  [Market Trend Report - Protein Shake](https://edxinteractivepage.blob.core.windows.net/ms-4004/Market%20Trend%20Report-%20Protein%20shake.docx) 복사본을 다운로드하려면 다음 링크를 선택합니다.
+1.  [Market Trend Report - Protein Shake](https://go.microsoft.com/fwlink/?linkid=2268827) 복사본을 다운로드하려면 다음 링크를 선택합니다.
 2.  다운로드가 완료되면 **파일 탐색기**를 열고 파일을 **다운로드** 폴더에서 OneDrive 계정의 폴더로 이동합니다.
 3.  이 연습에서는 가장 최근에 사용한 파일 목록에서 문서에 액세스합니다. MRU(가장 최근 사용) 목록에 파일을 표시하려면 문서를 연 다음 닫습니다.
 4.  **Microsoft Edge** 브라우저에 **Microsoft 365** 탭이 열려 있으면 지금 선택합니다. 그렇지 않으면 새 탭을 열고 다음 URL을 입력합니다. **https://www.office.com** 

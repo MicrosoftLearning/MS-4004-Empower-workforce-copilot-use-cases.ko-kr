@@ -3,12 +3,12 @@
 ---
 오늘날의 역동적인 비즈니스 환경에서 효과적인 커뮤니케이션은 앞서 나가기 위한 핵심입니다. 영업 직원이 방대한 정보의 바다를 탐색할 때 Microsoft Copilot은 커뮤니케이션 환경을 간소화하는 데 사용할 수 있는 강력한 도구로 부각됩니다. Teams 내에서 Microsoft Copilot은 주요 토론에 대한 빠르고 효율적인 개요를 제공하여 부담 없이 최신 정보를 얻을 수 있도록 해줍니다.
 
-Microsoft Teams를 생각할 때 일반적으로 Teams의 채팅을 생각합니다. 그러나 Microsoft 365용 Copilot을 사용하면 Teams의 Copilot 환경은 채팅 환경뿐만 아니라 Outlook의 이메일 및 모임 데이터에도 집중할 수 있습니다. Teams에서 사용할 수 있는 두 가지 Copilot 기능을 통해 이를 수행합니다.
+Microsoft Teams를 생각할 때 일반적으로 Teams의 채팅을 생각합니다. 그러나 Microsoft 365용 Copilot을 사용하면 Teams 내 Copilot 환경이 채팅 환경뿐 아니라 Outlook의 이메일 및 모임 데이터에도 중점을 둘 수 있습니다. 이는 Teams에서 사용할 수 있는 두 가지 Copilot 기능을 통해 수행됩니다.
 
  -  **Teams의 Copilot**. 이 Copilot 기능은 열려 있는 특정 채팅 스레드에 액세스합니다. 그러나 Teams 외부의 조직 데이터에는 액세스하지 않습니다. 채팅 스레드를 열 때 채팅 페이지 오른쪽 상단에 있는 **Copilot** 아이콘을 선택하여 해당 스레드에 대한 **Copilot** 창을 엽니다. Teams의 Copilot을 사용하면 모든 Teams 채팅 스레드에서 빠르게 최신 정보를 가져오고 주요 정보를 종합할 수 있습니다. Teams에서 채팅 스레드를 열면 Copilot은 채팅 스레드에서 최대 30일까지의 정보를 검색합니다.
- -  **Teams 내의 Microsoft Copilot**. 이 Copilot 기능은 Teams의 모든 채팅 환경과 Outlook의 이메일 및 모임에 액세스합니다. **Graph 기반 채팅이 포함된 Microsoft Copilot**을 사용하여 Teams 및 Outlook 데이터에 액세스합니다. 이 기능을 사용하려면 채팅 창 상단에 표시된 **Copilot** 옵션을 선택합니다. 그러면 Teams 내에서 **Copilot** 페이지가 열립니다.
+ -  **Teams 내 Microsoft Copilot**. 이 Copilot 기능은 Teams의 모든 채팅 환경과 Outlook의 이메일 및 모임에 액세스합니다. 이 기능은 Teams 및 Outlook 데이터에 액세스하는 데 **Graph 기반 채팅이 포함된 Microsoft Copilot**을 사용합니다. 이 기능을 사용하려면 채팅 창 상단에 표시된 **Copilot** 옵션을 선택합니다. 그러면 Teams 내에 **Copilot** 페이지가 열립니다.
 
-이 연습은 Teams 내의 Microsoft Copilot, 특히 Teams 및 Outlook 데이터에 액세스할 수 있는 Graph 기반 채팅 기능을 갖춘 Microsoft Copilot에 중점을 두고 있습니다. 이는 사용자와 함께 작업하여 Microsoft Teams 작업의 다양한 측면을 간소화하고 작업 컨텍스트에 따라 제안 및 권장 사항을 제공하도록 설계되었습니다.
+이 연습은 Teams 내 Microsoft Copilot, 특히 Teams 및 Outlook 데이터에 액세스할 수 있는 Graph 기반 채팅 기능을 갖춘 Microsoft Copilot에 중점을 두고 있습니다. 이는 사용자와 함께 작업하여 Microsoft Teams 작업의 다양한 측면을 간소화하고 작업 컨텍스트에 따라 제안 및 권장 사항을 제공하도록 설계되었습니다.
 
 이 학습 연습에서는 Microsoft Copilot을 사용하여 작업 환경의 실제 항목에 관한 이메일, 모임 및 채팅을 요약할 계획입니다. Microsoft Copilot이 이러한 방식으로 데이터를 합성하면 Microsoft 365 테넌트 전반에 걸쳐 이 정보를 수집합니다.
 

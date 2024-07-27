@@ -1,1 +1,1 @@
-자리 표시자 폴더
+Placeholder folder
